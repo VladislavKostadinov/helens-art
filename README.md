@@ -1,2 +1,2 @@
 # helens-art
-A side project
+My first solo project.
